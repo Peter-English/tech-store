@@ -1,0 +1,7 @@
+{
+  "singleQuote": true,
+  "arrowParens": "avoid",
+  "jsxBracketSameLine": false,
+  "eslintIntegration": true,
+  "printWidth": 69
+}
